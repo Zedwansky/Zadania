@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 branche
-=======
-gti
->>>>>>> 95d6d350de721fe2e2709d4a6007e2c3b9fc7838
